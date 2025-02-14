@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="Color change">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="Color and menu change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "E:/Dev/WebStorm/untitled/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -96,6 +94,7 @@
       <updated>1739486685977</updated>
       <workItem from="1739486687102" duration="22884000" />
       <workItem from="1739540390510" duration="2584000" />
+      <workItem from="1739543012041" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="Reorder">
       <option name="closed" value="true" />
@@ -129,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739509642635</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Color and menu change">
+      <option name="closed" value="true" />
+      <created>1739543026926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739543026926</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +158,7 @@
     <MESSAGE value="Button Click" />
     <MESSAGE value="Menu change" />
     <MESSAGE value="Color change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Color change" />
+    <MESSAGE value="Color and menu change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Color and menu change" />
   </component>
 </project>
