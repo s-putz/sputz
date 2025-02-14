@@ -6,3 +6,4 @@ function visNav(){
         x.style.display = "none";
     }
 }
+

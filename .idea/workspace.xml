@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="Button Click">
+    <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="Menu change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,6 +42,9 @@
     "accountId": "113e7976-e092-4f79-9341-8078f5ad70cb"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -54,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/Dev/WebStorm/untitled/.idea",
+    "last_opened_file_path": "E:/Dev/WebStorm/untitled/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,11 +70,13 @@
     "nodejs_interpreter_path": "C:/Users/simop/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.14.0/node",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "C:\\Users\\simop\\AppData\\Local\\JetBrains\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dev\WebStorm\untitled\img" />
       <recent name="E:\Dev\WebStorm\untitled\.idea" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -91,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739486685977</updated>
-      <workItem from="1739486687102" duration="17028000" />
+      <workItem from="1739486687102" duration="22538000" />
     </task>
     <task id="LOCAL-00001" summary="Reorder">
       <option name="closed" value="true" />
@@ -109,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739502568471</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Menu change">
+      <option name="closed" value="true" />
+      <created>1739504123887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739504123887</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reorder" />
     <MESSAGE value="Button Click" />
-    <option name="LAST_COMMIT_MESSAGE" value="Button Click" />
+    <MESSAGE value="Menu change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu change" />
   </component>
 </project>

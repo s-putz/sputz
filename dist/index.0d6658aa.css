@@ -1,0 +1,85 @@
+body {
+  background: linear-gradient(to right, bisque, #49277f) no-repeat fixed;
+}
+
+h1 {
+  color: #483d8b;
+  text-align: left;
+  font-family: Orbitron, consolas, serif;
+  font-size: 600%;
+  font-weight: 800;
+  position: relative;
+  top: 2.5%;
+  left: 2.5%;
+}
+
+.title {
+  font-size: 800%;
+  position: relative;
+  left: 8%;
+}
+
+p {
+  color: #000;
+  text-align: left;
+  font-family: Orbitron, consolas, serif;
+  font-size: 200%;
+  font-weight: 400;
+  position: relative;
+  left: 3%;
+}
+
+ul {
+  text-align: left;
+  font-family: Orbitron, consolas, serif;
+  font-size: 160%;
+  font-weight: 400;
+  position: relative;
+  left: 4%;
+}
+
+button {
+  color: #fff;
+  background-color: unset;
+  border: none;
+  font-family: Orbitron, consolas, serif;
+  font-size: 120%;
+  display: inline-flex;
+}
+
+button:hover {
+  color: #696969;
+}
+
+#menu {
+  color: #fff;
+  background-color: unset;
+  border: none;
+  font-family: Orbitron, consolas, serif;
+  font-size: 180%;
+}
+
+#menu:hover {
+  color: #696969;
+}
+
+.menu {
+  position: absolute;
+  top: 4%;
+  right: 3%;
+}
+
+.navbar {
+  position: absolute;
+  top: 10%;
+  right: 2%;
+}
+
+#navbar {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=index.0d6658aa.css.map */
