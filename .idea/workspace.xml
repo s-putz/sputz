@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="Menu change">
+    <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="Color change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,24 +24,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "s-putz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;s-putz&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/s-putz/sputz.git",
-    "accountId": "113e7976-e092-4f79-9341-8078f5ad70cb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/s-putz/sputz.git&quot;,
+    &quot;accountId&quot;: &quot;113e7976-e092-4f79-9341-8078f5ad70cb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2t0QoJwXW8KDde9QkHF93dH6pwE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,7 +54,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "<unknown>",
     "last_opened_file_path": "E:/Dev/WebStorm/untitled/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -100,7 +94,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739486685977</updated>
-      <workItem from="1739486687102" duration="22538000" />
+      <workItem from="1739486687102" duration="22884000" />
+      <workItem from="1739540390510" duration="2584000" />
     </task>
     <task id="LOCAL-00001" summary="Reorder">
       <option name="closed" value="true" />
@@ -126,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739504123887</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Menu change">
+      <option name="closed" value="true" />
+      <created>1739509642635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739509642635</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +150,7 @@
     <MESSAGE value="Reorder" />
     <MESSAGE value="Button Click" />
     <MESSAGE value="Menu change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu change" />
+    <MESSAGE value="Color change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Color change" />
   </component>
 </project>
