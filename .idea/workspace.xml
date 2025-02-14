@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="overflow on about page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,7 @@
       <workItem from="1739543012041" duration="767000" />
       <workItem from="1739548074779" duration="5599000" />
       <workItem from="1739560930382" duration="2882000" />
-      <workItem from="1739573232441" duration="482000" />
+      <workItem from="1739573232441" duration="964000" />
     </task>
     <task id="LOCAL-00001" summary="Reorder">
       <option name="closed" value="true" />
@@ -191,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739562834209</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="overflow on about page">
+      <option name="closed" value="true" />
+      <created>1739573730476</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739573730476</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

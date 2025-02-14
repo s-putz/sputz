@@ -100,3 +100,10 @@ a {
 .email:hover{
     color: dimgray;
 }
+
+a.conLink{
+    color: black;
+    &:hover{
+        color: dimgray;
+    }
+}
