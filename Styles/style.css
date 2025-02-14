@@ -1,20 +1,26 @@
+header{
+    overflow-x: hidden;
+    height: 2%;
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+}
 
 body{
-    background: linear-gradient(to left, #b59977, beige);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    overflow-x: hidden;
+    background: linear-gradient(to left, #b59977, beige) no-repeat fixed;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 footer{
     position: absolute;
     bottom: 2%;
-    width: 100%;
+    width: 98%;
+    height: 5%;
 }
 
 h1{
     position: relative;
-    left: 2.5%;
-    top: 2.5%;
     color: #210a02;
     font-size: 600%;
     text-align: left;
@@ -29,7 +35,6 @@ h1{
 
 p{
     position: relative;
-    left: 3%;
     color: black;
     font-size: 200%;
     text-align: left;
