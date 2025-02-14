@@ -129,7 +129,6 @@ button:not([disabled]):active{
 }
 
 .navbar{
-    style.display=block;
     position: absolute;
     top: 160px;
     right: 20px;
