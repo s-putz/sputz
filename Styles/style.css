@@ -5,6 +5,12 @@ body{
     background-attachment: fixed;
 }
 
+footer{
+    position: absolute;
+    bottom: 2%;
+    width: 100%;
+}
+
 h1{
     position: relative;
     left: 2.5%;
@@ -70,3 +76,18 @@ a {
     z-index: 99;
 }
 
+.copyright{
+    position: absolute;
+    right: 45%;
+    bottom: 2.5%;
+}
+
+.email{
+    color: black;
+    position: relative;
+    left: 2.5%;
+
+}
+.email:hover{
+    color: dimgray;
+}

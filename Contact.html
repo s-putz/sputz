@@ -11,10 +11,24 @@
   <meta http-equiv="X-Frame-Options" content="DENY">
   <link rel="stylesheet" href="Styles/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+  <style>
+    body {
+      opacity: 1;
+      animation: fadeIn 1s forwards;
+    }
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+    }
+  </style>
 </head>
 
 <body>
-<script src="scripts.js"></script>
+  <script src="scripts.js"></script>
   <header>
     <nav>
       <a href="index.html">
@@ -50,10 +64,15 @@
 
     <p>
       -You can write me an eMail via: <br>
-      <a style="color: black;position: relative; left: 2.5%;" href="mailto:sputz@flashnet.at">sputz@flashnet.at</a>
+      <a class="email" href="mailto:sputz@flashnet.at">sputz@flashnet.at</a>
     </p>
   </main>
 
+  <footer>
+    <hr>
+    <br>
+    <a class="copyright">@Copyright 2024 Simon Putz</a>
+  </footer>
 
 </body>
 
