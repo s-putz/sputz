@@ -30,20 +30,20 @@ footer{
 h1{
     position: relative;
     color: #210a02;
-    font-size: 6vw;
+    font-size: 12vh;
     text-align: left;
     font-family: "Times New Roman", consolas, serif;
     font-weight: 800;
 }
 
 .title{
-    font-size: 10vw;
+    font-size: 20vh;
 }
 
 p{
     position: relative;
     color: black;
-    font-size: 2vw;
+    font-size: 4vh;
     text-align: left;
     font-family: "Orbitron", consolas, serif;
     font-weight: 400;
@@ -52,7 +52,7 @@ p{
 ul{
     position: relative;
     font-family: "Orbitron", consolas, serif;
-    font-size: 2vw;
+    font-size: 4vh;
     text-align: left;
     left: 2vw;
     font-weight: 400;
@@ -61,7 +61,7 @@ ul{
 
 button{
     display: inline-flex;
-    font-size: 1.25vw;
+    font-size: 3vh;
     color: white;
     font-family: "Orbitron", consolas, serif;
     border: none;
@@ -91,7 +91,7 @@ a {
 .email{
     color: black;
     position: relative;
-    left: 2.5%;
+    left: 2vw;
 
 }
 .email:hover{
