@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="overflow on about page">
+    <list default="true" id="0ab07488-c737-4ea1-aa42-a50c312eb47d" name="Changes" comment="Adaptability">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +103,7 @@
       <workItem from="1739560930382" duration="2882000" />
       <workItem from="1739573232441" duration="3589000" />
       <workItem from="1740064957117" duration="252000" />
-      <workItem from="1740065232520" duration="984000" />
+      <workItem from="1740065232520" duration="1519000" />
     </task>
     <task id="LOCAL-00001" summary="Reorder">
       <option name="closed" value="true" />
@@ -212,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739574328331</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adaptability">
+      <option name="closed" value="true" />
+      <created>1740066358175</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740066358175</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +244,7 @@
     <MESSAGE value="Fade In" />
     <MESSAGE value="margins" />
     <MESSAGE value="overflow on about page" />
-    <option name="LAST_COMMIT_MESSAGE" value="overflow on about page" />
+    <MESSAGE value="Adaptability" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adaptability" />
   </component>
 </project>

@@ -15,12 +15,12 @@ body{
 
 footer{
     overflow-x: hidden;
+    display: block;
     position: fixed;
     bottom: 1vh;
     width: 97vw;
     text-align: center;
     color: black;
-    margin-top: auto;
     margin-right: 1vw;
     margin-left: 1vw;
 
