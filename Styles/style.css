@@ -1,5 +1,14 @@
-header{
+body{
     overflow-x: hidden;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to left, #b59977, beige) no-repeat fixed;
+    width: 100%;
+}
+
+header{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -8,16 +17,12 @@ header{
     margin: 3vh;
 }
 
-body{
-    overflow-x: hidden;
-    display: flex;
-    flex-direction: column;
+main{
     align-items: center;
-    background: linear-gradient(to left, #b59977, beige) no-repeat fixed;
-    width: 98vw;
-    margin-left: 1vw;
-    margin-right: 1vw;
-    margin-bottom: 5vh;
+    font-family: Inter, sans-serif;
+    font-size: 2vw;
+    margin-left: 2vw;
+    margin-right: auto;
 }
 
 footer{
@@ -32,12 +37,6 @@ footer{
 
 }
 
-main{
-    font-family: Inter;
-    font-size: 2vw;
-    margin-left: 2vw;
-    margin-right: auto;
-}
 
 h1{
     color: #210a02;
@@ -86,6 +85,7 @@ nav{
     align-items: center;
     z-index: 99;
     margin-left: auto;
+    margin-right: 2vw;
 }
 
 a {
