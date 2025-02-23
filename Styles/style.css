@@ -1,13 +1,20 @@
 header{
     overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     height: 5vh;
-    margin-top: 3vh;
-    margin-right: 2.5vh;
+    width: 100%;
+    margin: 3vh;
 }
 
 body{
     overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background: linear-gradient(to left, #b59977, beige) no-repeat fixed;
+    width: 98vw;
     margin-left: 1vw;
     margin-right: 1vw;
     margin-bottom: 5vh;
@@ -15,45 +22,40 @@ body{
 
 footer{
     overflow-x: hidden;
-    display: block;
-    position: fixed;
-    bottom: 1vh;
-    width: 97vw;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
     color: black;
-    margin-top: 2vh;
-    margin-right: 1vw;
-    margin-left: 1vw;
+    margin-top: auto;
+    margin-bottom: 2vh;
 
 }
 
+main{
+    font-family: Inter;
+    margin-left: 2vw;
+    margin-right: auto;
+}
+
 h1{
-    position: relative;
     color: #210a02;
     font-size: 12vh;
-    text-align: left;
     font-family: "Times New Roman", consolas, serif;
     font-weight: 800;
 }
 
-.title{
-    font-size: 20vh;
+h1.title{
+    font-size: 10vw;
 }
 
 p{
-    position: relative;
-    color: black;
     font-size: 4vh;
     text-align: left;
-    font-family: "Orbitron", consolas, serif;
-    font-weight: 400;
 }
 
 ul{
-    position: relative;
-    font-family: "Orbitron", consolas, serif;
     font-size: 4vh;
-    text-align: left;
     left: 2vw;
     font-weight: 400;
 }
@@ -66,36 +68,48 @@ button{
     font-family: "Orbitron", consolas, serif;
     border: none;
     background-color: unset;
+    margin-left: .5vw;
+
+    &:hover{
+        color: dimgray;
+    }
 }
 
-button:hover{
-    color: dimgray;
-}
-
-.active{
+button.active{
     color: dimgray;
 }
 
 nav{
     overflow: hidden;
-    position: relative;
-    float:right;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     z-index: 99;
+    margin-left: auto;
 }
 
 a {
     text-decoration: none;
     z-index: 99;
+
+
 }
 
-.email{
+a.copyright{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 2vw;
+}
+
+a.email{
     color: black;
     position: relative;
     left: 2vw;
 
-}
-.email:hover{
-    color: dimgray;
+    &:hover{
+        color: dimgray;
+    }
+
 }
 
 a.conLink{
