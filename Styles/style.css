@@ -34,13 +34,14 @@ footer{
 
 main{
     font-family: Inter;
+    font-size: 2vw;
     margin-left: 2vw;
     margin-right: auto;
 }
 
 h1{
     color: #210a02;
-    font-size: 12vh;
+    font-size: 6vw;
     font-family: "Times New Roman", consolas, serif;
     font-weight: 800;
 }
@@ -50,20 +51,19 @@ h1.title{
 }
 
 p{
-    font-size: 4vh;
+    font-size: 2vw;
     text-align: left;
 }
 
 ul{
-    font-size: 4vh;
+    font-size: 2vw;
     left: 2vw;
     font-weight: 400;
 }
 
-
 button{
     display: inline-flex;
-    font-size: 3vh;
+    font-size: 1.5vw;
     color: white;
     font-family: "Orbitron", consolas, serif;
     border: none;
@@ -91,8 +91,6 @@ nav{
 a {
     text-decoration: none;
     z-index: 99;
-
-
 }
 
 a.copyright{
