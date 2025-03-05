@@ -70,7 +70,7 @@ ul{
 
 button{
     display: inline-flex;
-    font-size: clamp(2rem, calc(.8vw + 1rem), 3rem);
+    font-size: clamp(2.2rem, calc(.8vw + 1rem), 3rem);
     color: white;
     font-family: "Orbitron", consolas, serif;
     border: none;
